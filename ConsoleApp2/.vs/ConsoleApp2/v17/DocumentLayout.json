@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp2\\consoleapp2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp2\\consoleapp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp2\\consoleapp2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DD7D4-1458-447A-B774-6CB0BA4F73E6}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Library.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Library.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Library.cs",
+              "RelativeToolTip": "ConsoleApp2\\Library.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:43:59.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Book.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Book.cs",
+              "RelativeToolTip": "ConsoleApp2\\Book.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:33:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Product.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Product.cs",
+              "RelativeToolTip": "ConsoleApp2\\Product.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:23:36.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:22:21.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
